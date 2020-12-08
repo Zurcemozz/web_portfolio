@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Responsive website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/:dist/css/"
+  },
+  "author": "Emman",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.30.0"
+  }
+}
